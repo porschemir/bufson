@@ -22,7 +22,7 @@ function Index() {
           Open in browser
         </h1>
         <a
-          href="https://www.google.com"
+          href="https://rcl.rwadlar.com/"
 
           rel="noopener noreferrer"
           className="buffer-btn w-full max-w-xs rounded-full px-8 py-3.5 text-base font-medium text-primary-foreground sm:w-auto sm:max-w-none sm:px-10 sm:py-4 sm:text-lg"
